@@ -1,4 +1,4 @@
-# Run Apache Kafka on Kubernetes and OpenShift
+# Apache Kafka with Strimzi Operator on Kubernetes and OpenShift
 
 
 [![GitHub release](https://img.shields.io/github/release/strimzi/strimzi-kafka-operator.svg)](https://github.com/strimzi/strimzi-kafka-operator/releases/latest)
