@@ -1,5 +1,3 @@
-[![Strimzi](./documentation/logo/strimzi.png)](https://strimzi.io/)
-
 # Run Apache Kafka on Kubernetes and OpenShift
 
 [![Build Status](https://dev.azure.com/cncf/strimzi/_apis/build/status/build?branchName=master)](https://dev.azure.com/cncf/strimzi/_build/latest?definitionId=16&branchName=master)
@@ -23,7 +21,6 @@ Strimzi is licensed under the [Apache License](./LICENSE), Version 2.0
 
 Strimzi is a <a href="http://cncf.io">Cloud Native Computing Foundation</a> sandbox project.
 
-![CNCF ><](./documentation/logo/cncf-color.png)
 
 [strimzi]: https://strimzi.io "Strimzi"
 [kafka]: https://kafka.apache.org "Apache Kafka"
